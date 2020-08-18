@@ -1,0 +1,1 @@
+int mare_mic();

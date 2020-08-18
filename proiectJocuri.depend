@@ -1,0 +1,88 @@
+# depslib dependency file v1.0
+1543758568 source:e:\proiecte\proiectjocuri\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<cstring>
+	<ctime>
+	"hangman.h"
+	"ghiceste_numar.h"
+	"tic_tac_toe.h"
+	"mare_mic.h"
+	"centrate_necentrate.h"
+	"memoreaza.h"
+	"provocare_atentie.h"
+
+1543673160 source:e:\proiecte\proiectjocuri\hangman.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<ctime>
+	"hangman.h"
+
+1543674751 source:e:\proiecte\proiectjocuri\ghiceste_numar.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	"ghiceste_numar.h"
+
+1543689800 source:e:\proiecte\proiectjocuri\tic_tac_toe.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"tic_tac_toe.h"
+
+1543599803 e:\proiecte\proiectjocuri\hangman.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<ctime>
+
+1543599526 e:\proiecte\proiectjocuri\ghiceste_numar.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+
+1543599578 e:\proiecte\proiectjocuri\tic_tac_toe.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1543673157 e:\proiecte\proiectjocuri\hangman.h
+
+1543672975 e:\proiecte\proiectjocuri\ghiceste_numar.h
+
+1543673335 e:\proiecte\proiectjocuri\tic_tac_toe.h
+
+1543754525 e:\proiecte\proiectjocuri\mare_mic.h
+
+1543754836 source:e:\proiecte\proiectjocuri\mare_mic.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"mare_mic.h"
+
+1543755179 e:\proiecte\proiectjocuri\centrate_necentrate.h
+
+1543756957 source:e:\proiecte\proiectjocuri\centrate_necentrate.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"centrate_necentrate.h"
+
+1543756330 source:e:\proiecte\proiectjocuri\memoreaza.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	"memoreaza.h"
+
+1543756045 e:\proiecte\proiectjocuri\memoreaza.h
+
+1543758565 e:\proiecte\proiectjocuri\provocare_atentie.h
+
+1543758831 source:e:\proiecte\proiectjocuri\provocare_atentie.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	"provocare_atentie.h"
+
